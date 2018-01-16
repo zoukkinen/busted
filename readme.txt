@@ -1,7 +1,8 @@
-=== Busted! ===
-Contributors: pdclark
-Plugin URI: https://github.com/pdclark/busted
-Author URI: http://pdclark.com
+=== Busted! - zoukkinen edition ===
+Contributors: zoukkinen & pdclark
+Plugin URI: https://github.com/zoukkinen/busted/
+Orginal Plugin URL: https://github.com/pdclark/busted
+Orginal Author URI: http://pdclark.com
 Tags: browser cache, develop, debug, client, clear, empty, refresh
 Requires at least: 3.4
 Tested up to: 4.2
