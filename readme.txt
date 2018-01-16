@@ -1,6 +1,6 @@
 === Busted! - zoukkinen edition ===
 Contributors: zoukkinen & pdclark
-Plugin URI: https://github.com/zoukkinen/busted/
+Plugin URI: https://github.com/zoukkinen/busted-zoukkinen/
 Orginal Plugin URL: https://github.com/pdclark/busted
 Orginal Author URI: http://pdclark.com
 Tags: browser cache, develop, debug, client, clear, empty, refresh
