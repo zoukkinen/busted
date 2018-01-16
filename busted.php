@@ -16,7 +16,7 @@ class Storm_Busted {
 	/**
 	 * @var string Name for query arguements and version identifier.
 	 */
-	static protected $version_slug = 'b-modified';
+	static protected $version_slug = 'citydevlabs-modified';
 
 	/**
 	 * @var string Version string with current time to break caches.
