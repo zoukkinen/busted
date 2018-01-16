@@ -35,7 +35,7 @@ class Storm_Busted {
 		 *
 		 * Extremely high priority assures we catch everything.
 		 */
-		add_action( 'wp_print_scripts', __CLASS__ . '::wp_print_scripts', PHP_INT_MAX - 1 );
+		add_action( 'wp_enqueue_scripts', __CLASS__ . '::wp_print_scripts', PHP_INT_MAX - 1 );
 
 		add_filter( 'stylesheet_uri', __CLASS__ . '::stylesheet_uri' );
 		add_filter( 'locale_stylesheet_uri', __CLASS__ . '::stylesheet_uri' );
