@@ -6,7 +6,7 @@ Orginal Author URI: http://pdclark.com
 Tags: browser cache, develop, debug, client, clear, empty, refresh
 Requires at least: 3.4
 Tested up to: 4.2
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,9 @@ Photo credit: [Brent Schneeman](http://www.flickr.com/photos/schneeman/328613723
 1. Activate the plugin.
 
 == Changelog ==
+
+= 1.5 =
+* Fix: Edit PHP_INIT_MAX - action wp_print_scripts to wp_enqueue_scripts
 
 = 1.4 =
 
