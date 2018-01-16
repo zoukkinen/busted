@@ -5,8 +5,8 @@ Orginal Plugin URL: https://github.com/pdclark/busted
 Orginal Author URI: http://pdclark.com
 Tags: browser cache, develop, debug, client, clear, empty, refresh
 Requires at least: 3.4
-Tested up to: 4.2
-Stable tag: 1.5
+Tested up to: 4.9.1
+Stable tag: 1.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,11 +36,14 @@ Photo credit: [Brent Schneeman](http://www.flickr.com/photos/schneeman/328613723
 
 == Installation ==
 
-1. Search for "Busted" under `WordPress Admin > Plugins > Add New`
+1. Install Plugin as zip-file.
 1. Install the plugin.
 1. Activate the plugin.
 
 == Changelog ==
+
+= 1.6 =
+* Rename slug to match new plugin naming 
 
 = 1.5 =
 * Fix: Edit PHP_INIT_MAX - action wp_print_scripts to wp_enqueue_scripts
