@@ -1,12 +1,13 @@
 <?php
 /*
 Plugin Name: Busted! - zoukkinen edition
-Plugin URI: http://github.com/pdclark/busted
+Plugin URI: https://github.com/zoukkinen/busted-zoukkinen/
 Description: Force browsers to load the most recent file if modified. Requires <a href="http://codex.wordpress.org/Function_Reference/wp_enqueue_style">wp_enqueue_style</a>, <a href="http://codex.wordpress.org/Function_Reference/wp_enqueue_script">wp_enqueue_script</a>, or <a href="http://codex.wordpress.org/Function_Reference/get_stylesheet_uri">get_stylesheet_uri</a> be used to load scripts and styles.
 Version: 1.6
-Author: Niko Jokinen
+Author: Niko Jokinen § Paul Clark
 Orginal Author: Paul Clark
-Author URI: http://pdclark.com
+Author URI: https://zoukkinen.com
+Orginal Author URI: http://pdclark.com
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
