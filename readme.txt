@@ -1,4 +1,4 @@
-=== Busted Fenix===
+=== Busted - Cache clearer v2===
 Contributors: zoukkinen & pdclark
 Plugin URI: https://github.com/zoukkinen/busted-zoukkinen/
 Orginal Plugin URL: https://github.com/pdclark/busted
@@ -15,6 +15,7 @@ Force browsers to load the most recent file if modified.
 == Description ==
 
 Saves you from asking "have you emptied your cache?". And forces the "style.css?v.1.1.1" to update if file is changed.
+This is a fixed version of the orginal "Busted"-plugin.
 
 **Features**
 
@@ -33,6 +34,9 @@ Requires scripts use any of the below functions to load. Almost all files meet t
 * [get_stylesheet_uri](http://codex.wordpress.org/Function_Reference/get_stylesheet_uri)
 
 Photo credit: [Brent Schneeman](http://www.flickr.com/photos/schneeman/3286137238/) – [cc](http://creativecommons.org/licenses/by-nc/2.0/)
+
+**Support**
+For issues or support I'll read the messages in wordpress.org or on github.
 
 == Installation ==
 
