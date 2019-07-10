@@ -1,12 +1,12 @@
-=== Busted! - zoukkinen edition ===
+=== Busted Fenix===
 Contributors: zoukkinen & pdclark
 Plugin URI: https://github.com/zoukkinen/busted-zoukkinen/
 Orginal Plugin URL: https://github.com/pdclark/busted
 Orginal Author URI: http://pdclark.com
 Tags: browser cache, develop, debug, client, clear, empty, refresh
-Requires at least: 3.4
-Tested up to: 4.9.1
-Stable tag: 1.6
+Requires at least: 4.0
+Tested up to: 5.2.2
+Stable tag: 1.7
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Force browsers to load the most recent file if modified.
 
 == Description ==
 
-Saves you from asking "have you emptied your cache?".
+Saves you from asking "have you emptied your cache?". And forces the "style.css?v.1.1.1" to update if file is changed.
 
 **Features**
 
@@ -42,6 +42,9 @@ Photo credit: [Brent Schneeman](http://www.flickr.com/photos/schneeman/328613723
 
 == Changelog ==
 
+= 1.7 =
+* Search and replace for wp_print_scripts to wp_enqueue_scripts
+
 = 1.6 =
 * Rename slug to match new plugin naming 
 
@@ -67,6 +70,9 @@ Photo credit: [Brent Schneeman](http://www.flickr.com/photos/schneeman/328613723
 * Initial public release.
 
 == Upgrade Notice ==
+= 1.7 =
+
+* Fix: Depricated function in the plugin. Thanks to [@timstl](https://github.com/pdclark/busted/pull/9) for the fixing PR in the orginal repository.
 
 = 1.4 =
 
